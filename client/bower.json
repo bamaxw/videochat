@@ -1,0 +1,21 @@
+{
+  "name": "videochat-client",
+  "homepage": "https://github.com/bamaxw/videochat",
+  "authors": [
+    "Max Wasylow bamwasylow@gmail.com"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": null,
+    "react": null
+  }
+}

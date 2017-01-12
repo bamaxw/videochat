@@ -1,0 +1,24 @@
+{
+  "name": "videochat-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamaxw/videochat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/bamaxw/videochat.git#readme",
+  "devDependencies": {
+    "bower": "^1.7.9",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-browser": "^3.0.4",
+    "gulp-size": "^2.1.0",
+    "reactify": "^1.1.1"
+  }
+}
